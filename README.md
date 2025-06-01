@@ -7,7 +7,7 @@ This tutorial gives a walkthrough of forecasting and benchmarking forecasters wi
 
 [sktime]: https://www.sktime.net
 
-[![Binder](https://mybinder.org/badge_logo.svg)](TODO) [![!discord](https://img.shields.io/static/v1?logo=discord&label=discord&message=chat&color=lightgreen)](https://discord.com/invite/54ACzaFsn7) 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sktime/tutorial_haicon_prologue_day/HEAD) [![!discord](https://img.shields.io/static/v1?logo=discord&label=discord&message=chat&color=lightgreen)](https://discord.com/invite/54ACzaFsn7) 
 
 ## :rocket: How to get started
 
