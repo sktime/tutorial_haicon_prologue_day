@@ -1,4 +1,5 @@
 sktime[dl]
+git+https://github.com/sktime/sktime.git@main
 matplotlib
 seaborn
 statsmodels
