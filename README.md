@@ -80,3 +80,6 @@ To clone the repository locally:
 `pip install -r requirements`
 4. If using jupyter: make the environment available in jupyter:
 `python -m ipykernel install --user --name=sktime_pydata`
+
+### Using uv
+Just run: `uv sync`
